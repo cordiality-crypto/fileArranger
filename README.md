@@ -9,7 +9,7 @@ It is an application to move data with specific names to a folder consisting of 
 - Javascript
 - C++
 ### RunTime Environment
-- NOde.js
+- Node.js
 ## Future Goals
 - To make a frontend for it to help for better navigation instead of command prompt.
 ## Contribution
