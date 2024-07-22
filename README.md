@@ -7,7 +7,6 @@ It is an application to move data with specific names to a folder consisting of 
 ## Technologies
 ### Languages
 - Javascript
-- C++
 ### RunTime Environment
 - Node.js
 ## Future Goals
